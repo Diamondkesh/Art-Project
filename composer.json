@@ -8,7 +8,8 @@
         "wikimedia/composer-merge-plugin": "^1.4",
         "drupal/admin_toolbar": "^1.24",
         "drupal/adminimal_admin_toolbar": "^1.7",
-        "drupal/devel": "^1.2"
+        "drupal/devel": "^1.2",
+        "drupal/bootstrap": "^3.11"
     },
     "replace": {
         "drupal/core": "^8.5"
